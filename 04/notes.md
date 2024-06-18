@@ -6,8 +6,8 @@
 
 - Não repetir código.
 
-[] Tipo de dado : Boolean (true | false)
-[] If/Else (ElseIf)
+[] Tipo de dado : Boolean (true | false)  
+[] If/Else (ElseIf)  
 [] Operadores comparativos
   - '> (maior que)
   - < (menor que)
