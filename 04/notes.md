@@ -15,3 +15,5 @@
   - <= (menor ou igual a)
   - == (igual a)
   - != (diferente de)
+  - === (estritamente igual no valor e tipo)
+  - !== (estritamente diferente no valor ou tipo)

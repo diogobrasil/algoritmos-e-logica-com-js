@@ -9,6 +9,9 @@
   - [Aula 4](./04/)
   - [Aula 5](./05/)
   - [Aula 6](./06/)
+  - [Aula 7](./07/)
+  - [Aula 8](./08/)
+  - [Aula 9](./09/)
 
 [] Cada pasta/aula contem :
   - um script com a resolução do desafio proposto
@@ -16,3 +19,6 @@
 
 [] O arquivo [index.html](./index.html) é usada para acessar os scripts das pastas
   - faz-se necessário, apenas, referenciar o script da aula desejada corretamente
+
+[] Os scripts nomeados com _test_ contém algumas observações relevantes.  
+[] O arquivo [Hoisting.md](./Hoisting.md) contém uma pequena observação sobre o uso do _var_.
