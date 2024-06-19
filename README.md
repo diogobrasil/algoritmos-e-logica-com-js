@@ -20,5 +20,6 @@
 [] O arquivo [index.html](./index.html) é usada para acessar os scripts das pastas
   - faz-se necessário, apenas, referenciar o script da aula desejada corretamente
 
+[] O arquivo [Operators.md](./Operators.md) contém uma colinha com alguns operadores.  
 [] Os scripts nomeados com _test_ contém algumas observações relevantes.  
 [] O arquivo [Hoisting.md](./Hoisting.md) contém uma pequena observação sobre o uso do _var_.
