@@ -15,6 +15,6 @@
 ## Outros operadores
 - _typeof_ (diz o tipo do dado de uma variável)
 - ++ ou -- (incremento ou decremento)
-- [ ] (cria um array vazio)
+- (cria um array vazio) [ ] 
 - { } (cria um objeto vazio)
 
